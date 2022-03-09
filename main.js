@@ -5,8 +5,7 @@ let command=intputArray[0];
 
 let types ={
     media: ['mp4','mkv'],
-    archives: ['zip','7z','rar','tar','gz','ar','iso','xz','pdf
-    '],
+    archives: ['zip','7z','rar','tar','gz','ar','iso','xz','pdf'],
     documents: ['docx','doc','pdf','xlsx','xls','odt','ods','odp','odg','odf',"txt",'ps','tex','docx','ppt'],
     app: ['exe','dmg','pkg','deb','js']
 }
